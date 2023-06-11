@@ -34,7 +34,7 @@ h2 {
 .cardContainer {
   background-color: hsl(0, 0%, 100%);
   box-shadow: 0 0 1em hsl(215, 7%, 41%);
-  border-radius: 15px;
+  border-radius: 25px;
   height: 700px;
   width: 375px;
   padding: 20px;
