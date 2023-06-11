@@ -1,0 +1,53 @@
+*,
+* ::before,
+* ::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(220, 15%, 55%);
+  font-family: [Outfit](https: //fonts.google.com/specimen/Outfit);
+  font-weight: 400, 700;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+}
+
+h2 {
+  color: hsl(218, 44%, 22%);
+  font-size: 32;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.cardContainer {
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 0 0 1em hsl(215, 7%, 41%);
+  border-radius: 15px;
+  height: 700px;
+  width: 375px;
+  padding: 20px;
+}
+
+.qrContainer {
+  border-radius: 15px;
+  height: 300px;
+  width: 300px;
+}
+
+.textContainer {
+  font-size: 11px;
+  text-align: center;
+  padding: 20px;
+}
