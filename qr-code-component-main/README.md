@@ -28,7 +28,7 @@ Screenshots of the finished code results:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dominionworkz/061123-FrontEndMentorm)
+- Solution URL: [(https://github.com/dominionworkz/061123-FrontEndMentorm](https://github.com/dominionworkz/061123-FrontEndMentorm)
 - Live Site URL: [Add live site URL here](https://061123-front-end-mentor.vercel.app/)
 
 ## My process
